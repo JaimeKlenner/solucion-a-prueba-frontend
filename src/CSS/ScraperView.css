@@ -1,0 +1,55 @@
+.main_title{
+    text-align: center;
+    background-color: #07103B;
+    color: #FFFFFF;
+    padding: 1%;
+}
+
+.custom-btn{
+    background-color: #0C1C69;
+    color:#FFFFFF;
+    margin: 0 2%;
+}
+.custom-btn:hover{
+    color:#76b8f7;
+}
+
+.div_addScraperBtn{
+    text-align: center;
+    width: 100%;
+    padding: 1% 0 1% 0;
+
+}
+
+.container_div{
+    margin: 2% 4%;
+    background-color: #FFFFFF;
+
+}
+
+#root{
+    padding:2% 10%;
+}
+
+#btn_refresh{
+    float:left;
+}
+
+#btn_filter{
+    display: inline-block;
+    float: right;
+}
+
+.filter{
+    width:auto;
+    display: inline-block;
+    float:right;
+}
+
+#top_buttons{
+    padding: 0 2rem 0 0;
+}
+
+td{
+    border:0;
+}
